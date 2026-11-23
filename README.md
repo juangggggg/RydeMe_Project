@@ -1,6 +1,6 @@
 # RydeMe_Project
 <div align="center">
-  <img src="assets/ryde-me-poster.png" width="850" alt="Ryde Me Poster">
+  <img src="Screenshot 2026-11-23 152523.png" width="850" alt="Ryde Me Poster">
 </div>
 
 🛵 Ryde Me
