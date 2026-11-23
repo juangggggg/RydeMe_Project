@@ -1,5 +1,9 @@
 # RydeMe_Project
-<div align="center"><img src="assets/ryde-me-poster.png" alt="Ryde Me project poster" width="850">🛵 Ryde Me
+<div align="center">
+  <img src="assets/ryde-me-poster.png" width="850" alt="Ryde Me Poster">
+</div>
+
+🛵 Ryde Me
 Your ride. Your route. Your community.
 Ryde Me is a community-driven ride-hailing platform inspired by services like Uber and Angkas, with the goal of making everyday transportation more convenient, accessible, and reliable.
 </div>📌 About the Project
